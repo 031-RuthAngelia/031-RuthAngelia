@@ -8,10 +8,6 @@ I'm a **web developer** and **programmer** currently learning **HTML, CSS, JavaS
 - 📱 **Frameworks**: Flutter, Tailwind(learning)  
 - 🛠️ **Other Tools**: Microsoft Office  
 
-## 📌 Featured Projects
-🌐 **Currently building various mini-projects — and working on a website with a database to strengthen both my frontend & backend skills!**
-✨ See more inside my repository!
-
 ## 🌱 Fun Facts
 - 🎵 I enjoy listening to music while coding!  
 
